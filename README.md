@@ -4,19 +4,21 @@
 ## Teachable Machine Image Project Git Hosting
 ### 1. 이미지 모으기
 |작업내용|해당사항|
-|학습에 필요한 이미지|김민주, 장원영, 주지훈|
-|사용 확장 프로그램|download all images|
-|사용한 사진 수|인당 약 180장 정도|
+|학습에 필요한 이미지|김민주, 장원영, 주지훈| 
+|사용 확장 프로그램|download all images| 
+|사용한 사진 수|인당 약 180장 정도| 
+-여러가지 사진을 모으고 변수를 맞추며 여러가지 적절한 자료들을 찾아보았다.
 
 #### 2. 이미지 프로젝트
 > [Teachable Machine](https://teachablemachine.withgoogle.com/models/_cxCqT4fI/)
 >> 선정한 class명 즉, 이름 : 클래스1-장원영, 클래스2- 김민주, 클래스3-주지훈
+-내가 선정한 모델들을 통해 기계를 학습 시키고, 학습한 내용으로 새로운 장치를 만들어보는 뜻깊은 시간을 보냈다.
 
-####3. 모델을 불러오기
+#### 3. 모델을 불러오기
 + Tensorflow.js -> Upload(shareable Link) 를 활용하여 링크를 생성
 + 생성된 링크를 복사하여 붙여넣기
 
-###Teachable Machine 이미지 모델 만들기
+### Teachable Machine 이미지 모델 만들기
 1. 러가지 모델들을 설정하며 사진을 모아 이미지 모델을 만들었다.
 
 ## 인공지능 모델 만들기 Teachable Machine 
